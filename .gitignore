@@ -1,0 +1,11 @@
+# real data and local output (the made-up samples are kept)
+__pycache__/
+*.pyc
+~$*
+.~lock*
+*.xlsx
+*.xlsm
+*.log
+!sample_claims/**/*.xlsx
+!sample_output/*.xlsx
+!sample_output/*.log
